@@ -1,0 +1,55 @@
+/* Change the background color */
+body {
+    background-color: rgb(197, 144, 91);
+}
+
+/* Style the header of the homepage */
+h1 {
+    text-align: center;
+    margin: 24px auto;
+    font-size: 100px;
+    color: whitesmoke
+}
+
+/* Align the image to the center and add border */
+img {
+    height: auto;
+    width: auto;
+    border: 3px solid peru;
+    margin: auto;
+    display: block;
+}
+
+/* Style the links */
+div {
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* Style background colors for 1st and 3rd link */
+.One,
+.Three {
+    background-color: whitesmoke;
+} 
+
+/* Allow enough space between image and links */
+.One {
+    margin-top: 50px;
+}
+
+/* Change the 1st link's text color */
+.anchor1 {
+    color: rgb(197, 144, 91)
+}
+
+/* Change the 2nd link's text color */
+.anchor2 {
+    color: whitesmoke;
+}
+
+/* Change the 3rd link's text color */
+.anchor3 {
+    color: rgb(197, 144, 91);
+}
+
