@@ -1,0 +1,40 @@
+/* Change background color and texts color */
+body {
+    background-color: rgb(197, 144, 91);
+    color: whitesmoke;
+}
+
+/* Style the heading of the page */
+h1 {
+    text-align: center;
+    margin: 24px auto;
+    font-size: 80px;
+}
+
+/* Align image to center and add border */
+img {
+    height:auto;
+    width: auto;
+    border: 2px solid peru;
+    margin: auto;
+    display: block;
+}
+
+/* Update the description of the image */
+h2,
+p {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: auto;
+}
+
+/* Update the ingredients font */
+.ingredients {
+    margin-top: 80px;
+    font-size: 30px;
+}
+
+/* Update the steps font */
+.steps {
+    font-size: 30px;
+}
